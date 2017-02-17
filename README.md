@@ -34,7 +34,7 @@ dns-nameservers 192.168.0.254 114.114.114.114
 # 配置局域网 SAMBA我的配置文件如下： 
 `[global] 
 server string = Raspberry PI 1
-# guest ok = yes 
+\guest ok = yes 
 security = user 
 registry shares = yes 
 syslog = 0 
