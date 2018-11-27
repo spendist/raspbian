@@ -29,7 +29,7 @@ raspberry PI debian linux v8
 `    # apt-get install apache2 php5 mysql-server`
 
 
-## 3 apr-scan 使用 ##
+## 3 arp-scan 使用 ##
 如果没有这个软件包，则 apt-get install nmap arp-scan 安装之
 命令示例：
 `# arp-scan --interface=eth0 --localnet --ouifile=/usr/share/ieee-oui.txt`
